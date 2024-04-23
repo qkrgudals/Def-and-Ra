@@ -16,4 +16,4 @@ Unity로 제작된 디펜스와 오펜스 RTS 포트폴리오입니다.
 
 기술서 링크:https://drive.google.com/file/d/1iN8O7KvlkFQuLYj3v3u5Q2y-OzoKdkuq/view?usp=drive_link
 
-영상 링크:https://www.youtube.com/watch?v=E9GaaxYgw3s
+영상 링크:[https://www.youtube.com/watch?v=E9GaaxYgw3s](https://www.youtube.com/watch?v=7Ulrnx-EzGg)
